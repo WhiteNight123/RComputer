@@ -6,7 +6,7 @@ R进制计算机第**二**版，使用**面向对象**思想，实现了**R进�
 
 ## 类
 
-<img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/image-20221104192923149.png" alt="image-20221104192923149" width="270dp" /> <img src="C:\Users\WhiteNight\AppData\Roaming\Typora\typora-user-images\image-20221104192944911.png" alt="image-20221104192944911" width="260dp" /> <img src="C:\Users\WhiteNight\AppData\Roaming\Typora\typora-user-images\image-20221104193008390.png" alt="image-20221104193008390" width="250dp" />
+<img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/image-20221104192923149.png" alt="image-20221104192923149" width="270dp" /> <img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/image-20221104192944911.png" alt="image-20221104192944911" width="260dp" /> <img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/image-20221104193008390.png" alt="image-20221104193008390" width="250dp" />
 
 `MyInt`为自然数，`MyInt`为整数，`MyReal`为实数
 
