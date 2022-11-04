@@ -13,7 +13,7 @@ int main() {
     a.setNum(Buffer1);
     b.setNum(Buffer2);
 
-    cout << "-----整数的加,减,乘,除,取余,比大小-----" << endl;
+    cout << "-----整数的加,减,乘,除,取余-----" << endl;
     cout << "按照" << R << "进制相加,结果为: " << endl;
     c = a + b;
     cout << '\t' << a.getNum(Buffer) << endl;
