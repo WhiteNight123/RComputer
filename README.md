@@ -12,4 +12,4 @@ R进制计算机第**二**版，使用**面向对象**思想，实现了**R进�
 
 ## 运行结果
 
-<img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/8.png" alt="8" width="250dp" />         <img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/10.png" alt="10" width="250dp" />          <img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/16.png" alt="16" width="250dp" />
+<img src="https://s2.loli.net/2023/07/08/BuNPGvr49LaYbJF.png" alt="8" width="250dp" />         <img src="https://typora-1256766878.cos.ap-chongqing.myqcloud.com/10.png" alt="10" width="250dp" />          <img src="https://s2.loli.net/2023/07/08/4GYMshvCAntcXEU.png" alt="16" width="250dp" />
